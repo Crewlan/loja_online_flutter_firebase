@@ -1,6 +1,6 @@
 # loja_online_flutter_firebase
 
-A new Flutter application.
+Teste de uma loja virtual usando flutter com sistema de banco de dados do Firebase(google)
 
 ## Getting Started
 
