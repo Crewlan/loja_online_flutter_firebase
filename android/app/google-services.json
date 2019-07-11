@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "242788574282",
+    "firebase_url": "https://lojaonline-ec69b.firebaseio.com",
+    "project_id": "lojaonline-ec69b",
+    "storage_bucket": "lojaonline-ec69b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242788574282:android:0f55bbb90d8ae87d",
+        "android_client_info": {
+          "package_name": "com.wolfcodea.loja_online_flutter_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "242788574282-i7bh6hvfd1omrjrj1qvnfbsdoc7jeb5v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wolfcodea.loja_online_flutter_firebase",
+            "certificate_hash": "c0c786514e9c3657fe70bec0c278551e6140f438"
+          }
+        },
+        {
+          "client_id": "242788574282-rigekeanpin7nb26fjctuvscrl3dh9tr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4f6PsHojQY_Jn_TykA1UZAKWQHBExgWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "242788574282-rigekeanpin7nb26fjctuvscrl3dh9tr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
